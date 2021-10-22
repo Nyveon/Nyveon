@@ -4,7 +4,7 @@
 
   ### Software:
   
-  - 🦀 [My Website](https://github.com/Nyveon/MCStructureCleaner) | Find a full list of my socials, projects, and countdowns here.  
+  - 🦀 [My Website]((https://nyveon.com) | Find a full list of my socials, projects, and countdowns here.  
 
 
   - ⛏ [MCStructureCleaner](https://github.com/Nyveon/MCStructureCleaner) | Open source minecraft world corruption fixer. >20 Worlds saved. [As of 21/10/2021]  
