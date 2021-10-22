@@ -76,7 +76,7 @@
   
   ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
   ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-  [GameMaker Studio 1.4/2.3]*
+  [GameMaker Studio 1.4/2.3](https://github.com/simple-icons/simple-icons/issues/4419)*
 
 
   ### Tools:
@@ -89,7 +89,7 @@
   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
   ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
   [Vegas Pro]*
-  [FL Studio]*
+  [FL Studio](https://github.com/simple-icons/simple-icons/issues/2170)*
   
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -98,7 +98,7 @@
 
 ### Currently learning:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-[Materialize]*
+[Materialize](https://github.com/simple-icons/simple-icons/issues/3203)*
 
 *No icons yet :c
 
