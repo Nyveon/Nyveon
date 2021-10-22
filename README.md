@@ -102,10 +102,16 @@
 
 <br/>  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nyveon&show_icons=true&hide_border=true&count_private=true&theme=radical" style="width: 50%" />
-</p>
 
+
+<p>
+<img align="center" style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=Nyveon&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+
+<img align="center" style="width: 42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyveon&layout=compact&hide_border=true&count_private=true&theme=radical"/>
+</p>
+  
+  
+<br/>
 
 
 ##### * No icons yet :c
