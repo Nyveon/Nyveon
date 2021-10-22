@@ -108,6 +108,6 @@
   
 <br/>
 
-<div align="right">
-##### Profile page made with: [Ileriayo's Markdown Badges](https://github.com/Ileriayo/markdown-badges) and [Anuraghazra's Github Readme Stat's](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<h5 align="right">
+Profile page made with: <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo's Markdown Badges</a> and <a href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra's Github Readme Stats</a>
+</h5>
