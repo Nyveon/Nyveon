@@ -90,8 +90,8 @@
 <sup> ⁴ </sup>
 
 #### No icons yet:
-1. [GameMaker Studio 1.4/2.3](https://github.com/simple-icons/simple-icons/issues/4419)*
-2. Vegas Pro
+1. [GameMaker Studio 1.4/2.3](https://github.com/simple-icons/simple-icons/issues/4419)
+2. [Vegas Pro](https://github.com/simple-icons/simple-icons/issues/6764)
 3. [FL Studio](https://github.com/simple-icons/simple-icons/issues/2170)
 4. [Materialize](https://github.com/simple-icons/simple-icons/issues/3203)
   
