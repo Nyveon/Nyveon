@@ -37,6 +37,8 @@
 
 </td></tr></table>  
  
+ <br/>
+ 
 <table><tr><td valign="top" width="50%"> 
  
 ### Languages:
@@ -94,15 +96,9 @@
 4. [Materialize](https://github.com/simple-icons/simple-icons/issues/3203)
   
 </td><table>
-  
-
-
        
-          
 <br/>  
-
-
-
+  
 <p>
 <img align="center" style="width: 56%" src="https://github-readme-stats.vercel.app/api?username=Nyveon&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
 
@@ -112,7 +108,4 @@
   
 <br/>
 
-
-Profile page made with:
-- https://github.com/Ileriayo/markdown-badges
-- https://github.com/anuraghazra/github-readme-stats
+##### Profile page made with: [Ileriayo's Markdown Badges](https://github.com/Ileriayo/markdown-badges) and [Anuraghazra's Github Readme Stat's](https://github.com/anuraghazra/github-readme-stats)
