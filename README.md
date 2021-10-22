@@ -114,7 +114,6 @@
 <br/>
 
 
-##### * No icons yet :c
 Profile page made with:
 - https://github.com/Ileriayo/markdown-badges
 - https://github.com/anuraghazra/github-readme-stats
