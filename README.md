@@ -1,6 +1,4 @@
 ## Hi, I'm Eric. AKA Nyveon.  
-  
-Computer Science and Engineering Student. Living in Chile. Non-programming languages: English, Spanish, German. Hobbyist Gamedev.  
 
 <table><tr><td valign="top" width="50%"> 
 
