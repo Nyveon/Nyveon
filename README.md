@@ -10,7 +10,7 @@
 ## Projects  
 <table><tr><td valign="top" width="50%"> 
 
-  ## Software:
+  ### Software:
   
   - 🦀 [My Website](https://github.com/Nyveon/MCStructureCleaner) | Find a full list of my socials, projects, and countdowns here.  
 
@@ -26,7 +26,7 @@
 
 </td><td valign="top" width="50%">
   
-  ## Game-Dev:
+  ### Game-Dev:
   
   - 🥇 [Lam's Untitled Neon](https://itch.io/jam/amaze-me-game-jam/rate/1097884) | 1st Place in the Amaze me Game Jam by Opera.  
 
@@ -49,11 +49,49 @@
 
 
 ## Languages and Tools  
-<div align="center">  
+<table><tr><td valign="top" width="33%">
   
-Currently working on filling this out...
+  ### Languages:
+    
+  - Python 
+  - Javascript
+  - GML
+  - GDSCript
+  - Java
+  - C++
+  - HTML5/CSS
+  - PostreSQL
+  - R
+  - Matlab/Octave
+  
+  </td>
+  <td valign="top" width="33%">
 
-</div>  
+  ### Frameworks/Systems/Engines:
+  - Django
+  - Bootstrap
+  - Materialize
+  - Wordpress
+  - GameMaker Studio 1.4/2.3
+  - Godot 3
+    
+  </td>
+  <td valign="top" width="33%">
+
+  ### Tools:
+  - JetBrains [IntelliJ, Pycharm, WebStorm, CLion]
+  - Notepad++
+  - Latex
+  - Adobe Photoshop
+  - Adobe After Effects
+  - FL Studio
+  - Vegas Pro
+  - Office356
+ 
+    
+  </td>
+</td></tr></table>
+
 
 <br/>  
 
