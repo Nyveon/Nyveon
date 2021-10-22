@@ -10,7 +10,7 @@
   - ⛏ [MCStructureCleaner](https://github.com/Nyveon/MCStructureCleaner) | Open source minecraft world corruption fixer. >20 Worlds saved. [As of 21/10/2021]  
 
 
-  - 📕 [tU-Cursos](https://github.com/Nyveon/tu-cursos) | Extension for Chromium and Firefox browsers to add customiation and new functionality to the University of Chile's forum system.  
+  - 📕 [tU-Cursos](https://github.com/Nyveon/tu-cursos) | Extension for Chromium and Firefox browsers to add customization and new functionality to the University of Chile's forum system.  
 
 
   - 🤔 [Conway's Block Universe](https://github.com/Nyveon/Conways-Block-Universe) | Currently working on this!
