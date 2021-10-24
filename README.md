@@ -99,7 +99,7 @@
        
 <br/>  
   
-<p>
+<p align="center">
 <img align="center" style="width: 34%" src="https://github-readme-stats.vercel.app/api?username=Nyveon&hide_rank=true&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
 
 <img align="center" style="width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyveon&layout=compact&hide_border=true&count_private=true&theme=dracula&langs_count=8"/>
