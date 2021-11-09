@@ -7,7 +7,7 @@
   - 🦀 [My Website](https://nyveon.com) | Find a full list of my socials, projects, and countdowns here.  
 
 
-  - ⛏ [MCStructureCleaner](https://github.com/Nyveon/MCStructureCleaner) | Open source minecraft world corruption fixer. >20 Worlds saved. [As of 21/10/2021]  
+  - ⛏ [MCStructureCleaner](https://github.com/Nyveon/MCStructureCleaner) | Open source minecraft world corruption fixer. >21 Worlds saved. [As of 21/10/2021]  
 
 
   - 📕 [tU-Cursos](https://github.com/Nyveon/tu-cursos) | Extension for Chromium and Firefox browsers to add customization and new functionality to the University of Chile's forum system.  
