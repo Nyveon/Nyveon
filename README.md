@@ -65,9 +65,9 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 <sup> ¹ </sup>
 
-</td></tr><tr>
+</td></tr><tr></tr><tr>
   
-<td valign="top" width="50%"> 
+<td valign="top" width="50%" > 
   
 ### Tools:
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
