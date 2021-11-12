@@ -89,6 +89,8 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 <sup> ⁴ </sup>
 
+At [CodeAcademy](https://www.codecademy.com/profiles/LiquidAmethyst)
+
 #### No icons yet:
 1. [GameMaker Studio 1.4/2.3](https://github.com/simple-icons/simple-icons/issues/4419)
 2. [Vegas Pro](https://github.com/simple-icons/simple-icons/issues/6764)
