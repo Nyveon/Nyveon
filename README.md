@@ -4,13 +4,11 @@
 
   ### Software:
   
-  - 🦀[My Website](https://nyveon.com) | Find a full list of my socials, projects, and countdowns here.  
+  - 🦀[My Website](https://nyveon.com)  
 
+  - ⛏[MCStructureCleaner](https://github.com/Nyveon/MCStructureCleaner) | *Minecraft world corruption fixer. >21 Worlds saved. [As of 21/10/2021]*
 
-  - ⛏[MCStructureCleaner](https://github.com/Nyveon/MCStructureCleaner) | Open source minecraft world corruption fixer. >21 Worlds saved. [As of 21/10/2021]  
-
-
-  - 📕[tU-Cursos](https://github.com/Nyveon/tu-cursos) | Extension for Chromium and Firefox browsers to add customization and new functionality to the University of Chile's forum system.
+  - 📕[tU-Cursos](https://github.com/Nyveon/tu-cursos) | Browsers extension to add customization and new functionality to the U. of Chile's forum.
   
   - 🎓[University Projects & Courses](https://github.com/Nyveon/Nyveon/blob/main/University.md) | Student council projects, courses and projects for courses.
 
@@ -19,19 +17,19 @@
   
   ### Game-Dev:
   
-  - 🥇 [Lam's Untitled Neon](https://itch.io/jam/amaze-me-game-jam/rate/1097884) | 1st Place in the Amaze me Game Jam by Opera.  
+  - 🥇 [Lam's Untitled Neon](https://itch.io/jam/amaze-me-game-jam/rate/1097884) | 1st Place - Opera Amaze me Game Jam.  
 
 
-  - 🥇 [Planet Weaver](https://gm48.net/game/1578/planet-weaver) | 1st Place in GM48 #34.  
+  - 🥇 [Planet Weaver](https://gm48.net/game/1578/planet-weaver) | 1st Place - GM48 #34.  
 
 
-  - 🥇 [Monster Kitchen Island](https://gm48.net/game/1929/monster-kitchen-island) | 1st Place in GM48 #39  
+  - 🥇 [Monster Kitchen Island](https://gm48.net/game/1929/monster-kitchen-island) | 1st Place - GM48 #39  
 
 
-  - 🏅 [Wi-Fi for Wanderers](https://gamejolt.com/games/wanderers/639151) | Judge's list of favorites in the OperaGX Jam  
+  - 🏅 [Wi-Fi for Wanderers](https://gamejolt.com/games/wanderers/639151) | Judge's favorites list - the OperaGX Jam  
 
 
-  - 🎮 4+ Public game jam projects | 5+ University Game projects | Demo reel coming soon!  
+  - 🎮 4 more Public game jam projects | 5 more University Game projects | Demo reel coming soon!  
 
 
 </td></tr></table>  
