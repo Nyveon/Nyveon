@@ -13,7 +13,7 @@
   - 📕 [tU-Cursos](https://github.com/Nyveon/tu-cursos) | Extension for Chromium and Firefox browsers to add customization and new functionality to the University of Chile's forum system.  
 
 
-  - 🤔 [Conway's Block Universe](https://github.com/Nyveon/Conways-Block-Universe) | Currently working on this!
+  -🎓 [University Projects & Courses](https://github.com/Nyveon/Nyveon/blob/main/University.md) | Student council projects, courses and projects for courses.
 
 
 </td><td valign="top" width="50%">
