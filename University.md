@@ -14,3 +14,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyveon&repo=CC5408-AUK&theme=dracula)](https://github.com/Nyveon/CC5408-AUK)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dav1com&repo=CC3101-trabajo-1&theme=dracula)](https://github.com/Dav1com/CC3101-trabajo-1)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dav1com&repo=CC3101-2-trabajo2-grupo13&theme=dracula)](https://github.com/Dav1com/CC3101-2-trabajo2-grupo13)
+
+[//]: <> (Reminder to me: conslidate CC3101 projects into one repository at end of semester.)
