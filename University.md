@@ -7,6 +7,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyveon&repo=CC400X-competitive-programming&theme=dracula)](https://github.com/Nyveon/CC400X-competitive-programming)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DCC-CC4401&repo=2021-2-Grupo-1&theme=dracula)](https://github.com/DCC-CC4401/2021-2-Grupo-1)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyveon&repo=CC3201-Project&theme=dracula)](https://github.com/Nyveon/CC3201-Project)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyveon&repo=CC3002-Scrabble&theme=dracula)](https://github.com/Nyveon/CC3002-Scrabble)
