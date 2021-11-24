@@ -6,7 +6,7 @@
   
   - 🦀[My Website](https://nyveon.com)  
 
-  - ⛏[MCStructureCleaner](https://github.com/Nyveon/MCStructureCleaner) | *Minecraft world corruption fixer. >21 Worlds saved. [As of 21/10/2021]*
+  - ⛏[MCStructureCleaner](https://github.com/Nyveon/MCStructureCleaner) | *Minecraft world corruption fixer. >22 Worlds saved. [As of 21/10/2021]*
 
   - 📕[tU-Cursos](https://github.com/Nyveon/tu-cursos) | Browsers extension to add customization and new functionality to the U. of Chile's forum.
   
