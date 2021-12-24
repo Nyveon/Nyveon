@@ -83,10 +83,10 @@
 </td><td valign="top" width="50%"> 
 
 ### Currently learning:
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 <sup> ⁴ </sup>
 
-At [CodeAcademy](https://www.codecademy.com/profiles/LiquidAmethyst)
+At [Codecademy](https://www.codecademy.com/profiles/LiquidAmethyst)
 
 #### No icons yet:
 1. [GameMaker Studio 1.4/2.3](https://github.com/simple-icons/simple-icons/issues/4419)
