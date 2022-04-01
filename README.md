@@ -8,7 +8,7 @@
 
   - ⛏[MCStructureCleaner](https://github.com/Nyveon/MCStructureCleaner) | *Minecraft world corruption fixer. >22 Worlds saved. [As of 24/11/2021]*
 
-  - 📕[tU-Cursos](https://github.com/Nyveon/tu-cursos) | Browsers extension to add customization and new functionality to the U. of Chile's forum.
+  - 📕[tU-Cursos](https://github.com/Nyveon/tu-cursos) | Browser extension to add customization and new functionality to the U. of Chile's forum.
   
   - 🎓[University Projects & Courses](https://github.com/Nyveon/Nyveon/blob/main/University.md) | Student council projects, courses and projects for courses.
 
