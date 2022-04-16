@@ -2,6 +2,24 @@
   Hi, I'm <b>Eric</b>. AKA <b>Nyveon</b>. 
 </p>
 
+<p align="center">
+    <a href="https://twitter.com/nyveon">
+        <img align="center" src="https://img.shields.io/badge/Nyveon-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+    </a>
+    <a href="https://www.twitch.tv/nyveon">
+        <img align="center" src="https://img.shields.io/badge/Nyveon-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" />
+    </a>
+    <a href="https://www.reddit.com/user/nyveon">
+        <img align="center" src="https://img.shields.io/badge/Nyveon-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+    </a>
+    <a href="https://www.goodreads.com/user/show/56531731-nyveon">
+        <img align="center" src="https://img.shields.io/badge/Nyveon-%23372213.svg?style=for-the-badge&logo=goodreads&logoColor=white" />
+    </a>
+    <a href="https://steamcommunity.com/id/nyveon">
+        <img align="center" src="https://img.shields.io/badge/Nyveon-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
+    </a>
+    <img align="center" src="https://img.shields.io/badge/Nyveon%239999-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
 
 
 <!-- ---------------------------------------------------------------------------- -->
@@ -10,7 +28,7 @@
 
 <p align="center">
   <a href="https://github.com/Nyveon/MCStructureCleaner">
-    <img align="center" height=128 src="https://github-readme-stats.vercel.app/api/pin/?username=Nyveon&repo=MCStructureCleaner&theme=midnight-purple&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nyveon&repo=MCStructureCleaner&theme=midnight-purple&hide_border=true" />
   </a>
 </p>
 
@@ -20,11 +38,11 @@
 
 <p align="center">
   <a href="https://github.com/nyveon/tU-Cursos">
-    <img align="center" height=128 src="https://github-readme-stats.vercel.app/api/pin/?username=nyveon&repo=tU-cursos&theme=midnight-purple&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nyveon&repo=tU-cursos&theme=midnight-purple&hide_border=true" />
   </a>
 
   <a href="https://github.com/nyveon/tUcampus">
-    <img align="center" height=128 src="https://github-readme-stats.vercel.app/api/pin/?username=nyveon&repo=tUcampus&theme=midnight-purple&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nyveon&repo=tUcampus&theme=midnight-purple&hide_border=true" />
   </a>
 </p>
 
