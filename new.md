@@ -12,10 +12,6 @@
   <a href="https://github.com/Nyveon/MCStructureCleaner">
     <img align="center" height=128 src="https://github-readme-stats.vercel.app/api/pin/?username=Nyveon&repo=MCStructureCleaner&theme=midnight-purple&hide_border=true" />
   </a>
-
-  <a href="https://github.com/scisneros/OfisalitaBot">
-    <img align="center" height=128 src="https://github-readme-stats.vercel.app/api/pin/?username=scisneros&repo=OfisalitaBot&theme=midnight-purple&hide_border=true" />
-  </a>
 </p>
 
 <!-- ---------------------------------------------------------------------------- -->
