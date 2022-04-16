@@ -10,11 +10,11 @@
 
 <p align="center">
   <a href="https://github.com/Nyveon/MCStructureCleaner">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nyveon&repo=MCStructureCleaner&theme=midnight-purple&hide_border=true" />
+    <img align="center" height=128 src="https://github-readme-stats.vercel.app/api/pin/?username=Nyveon&repo=MCStructureCleaner&theme=midnight-purple&hide_border=true" />
   </a>
 
   <a href="https://github.com/scisneros/OfisalitaBot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scisneros&repo=OfisalitaBot&theme=midnight-purple&hide_border=true" />
+    <img align="center" height=128 src="https://github-readme-stats.vercel.app/api/pin/?username=scisneros&repo=OfisalitaBot&theme=midnight-purple&hide_border=true" />
   </a>
 </p>
 
@@ -24,11 +24,11 @@
 
 <p align="center">
   <a href="https://github.com/nyveon/tU-Cursos">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nyveon&repo=tU-cursos&theme=midnight-purple&hide_border=true" />
+    <img align="center" height=128 src="https://github-readme-stats.vercel.app/api/pin/?username=nyveon&repo=tU-cursos&theme=midnight-purple&hide_border=true" />
   </a>
 
   <a href="https://github.com/nyveon/tUcampus">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nyveon&repo=tUcampus&theme=midnight-purple&hide_border=true" />
+    <img align="center" height=128 src="https://github-readme-stats.vercel.app/api/pin/?username=nyveon&repo=tUcampus&theme=midnight-purple&hide_border=true" />
   </a>
 </p>
 
