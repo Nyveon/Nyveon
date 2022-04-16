@@ -157,7 +157,8 @@
 </p>
 
 <br/>
+<br/>
 
 <h5 align="right">
-    Icons from: https://simpleicons.org
+Profile page made with: <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo's Markdown Badges</a>, <a href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra's Github Readme Stats</a> and Icons from: https://simpleicons.org
 </h5>
