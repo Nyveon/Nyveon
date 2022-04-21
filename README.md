@@ -18,6 +18,9 @@
     <a href="https://steamcommunity.com/id/nyveon">
         <img align="center" src="https://img.shields.io/badge/Nyveon-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
     </a>
+    <a href="https://www.last.fm/user/Nyveon">
+        <img align="center" src="https://img.shields.io/badge/Nyveon-%23D51007.svg?style=for-the-badge&logo=lastdotfm&logoColor=white" />
+    </a>  
     <img align="center" src="https://img.shields.io/badge/Nyveon%239999-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
