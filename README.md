@@ -1,8 +1,4 @@
 <p align="center">
-  Hi, I'm <b>Eric</b>. AKA <b>Nyveon</b>. 
-</p>
-
-<p align="center">
     <a href="https://twitter.com/nyveon">
         <img align="center" src="https://img.shields.io/badge/Nyveon-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
     </a>
