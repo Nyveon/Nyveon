@@ -60,7 +60,7 @@
     <a href="https://nyveon.com/">
         <img align="center" width=80 src="./icons/grok.png" />My website
     </a>
-    - A catalogue of my projects. 1st place in many Game Jams!
+    - A catalogue of my projects and game jam submissions.
 </h3>
 
 <!-- ---------------------------------------------------------------------------- -->
