@@ -23,17 +23,13 @@
 
 <!-- ---------------------------------------------------------------------------- -->
 
-<h2 align="center"> Tools & Bots </h2>
+<h2 align="center"> Open Source Tools & Projects </h2>
 
 <p align="center">
   <a href="https://github.com/Nyveon/MCStructureCleaner">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nyveon&repo=MCStructureCleaner&theme=midnight-purple&hide_border=true" />
   </a>
 </p>
-
-<!-- ---------------------------------------------------------------------------- -->
-
-<h2 align="center"> Web Extensions </h2>
 
 <p align="center">
   <a href="https://github.com/nyveon/tU-Cursos">
