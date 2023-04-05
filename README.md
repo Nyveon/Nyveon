@@ -22,7 +22,7 @@
 
 <h2 align="center"> Groups and Websites </h2>
 
-<a href="http://eric.cl">
+<a href="http://eri.cl">
     <img align="center" width=32 src="./icons/personal.png" />&nbsp;eri.cl
 </a>
 - My personal website.
