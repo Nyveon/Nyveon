@@ -5,6 +5,8 @@
 
 # University courses/projects:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyveon&repo=CC5213-Proyecto-Final&theme=dracula)](https://github.com/Nyveon/CC5213-Proyecto-Final)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyveon&repo=CC400X-competitive-programming&theme=dracula)](https://github.com/Nyveon/CC400X-competitive-programming)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DCC-CC4401&repo=2021-2-Grupo-1&theme=dracula)](https://github.com/DCC-CC4401/2021-2-Grupo-1)
