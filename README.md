@@ -22,17 +22,12 @@
 
 <h2 align="center"> Groups and Websites </h2>
 
-<a href="http://eri.cl">
-    <img align="center" width=32 src="./icons/personal.png" />&nbsp;eri.cl
+<a href="http://eric.tc">
+    <img align="center" width=32 src="./icons/personal.png" />&nbsp;eric.tc
 </a>
 - My personal website.
 <br/><br/>
 
-<a href="https://www.minibunnies.com/">
-    <img align="center" width=32 src="./icons/minibunnies.png" />The Mini Bunnies
-</a>
-- Indie game studio, making <a href="https://store.steampowered.com/app/1602550/After_School_Afterlife/">After School Afterlife</a>.
-<br/><br/>
 
 <a href="https://nyveon.com/">
     <img align="center" width=32 src="./icons/grok.png" />Gamedev Portfolio
