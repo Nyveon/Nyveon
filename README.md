@@ -2,8 +2,10 @@
 
 <p align="center">
 <b>
-<a href="http://eric.tc">✨ Portfolio and Blog ✨</a> 
+✨
+<a href="http://eric.tc">Portfolio and Blog</a> 
 </b>
+✨
 </p>
 
 <p align="center">
@@ -22,9 +24,9 @@
 </p>
 
 <p align="center">
-<a href="https://www.backloggd.com/u/Nyveon/" target="_blank">🎮 Playing</a> |
-<a href="https://www.goodreads.com/user/show/56531731-nyveon" target="_blank">📚 Reading</a> |
-<a href="https://www.last.fm/user/Nyveon">🎶 Listening </a>
+🎮 <a href="https://www.backloggd.com/u/Nyveon/" target="_blank">Playing</a> |
+📚 <a href="https://www.goodreads.com/user/show/56531731-nyveon" target="_blank">Reading</a> |
+🎶 <a href="https://www.last.fm/user/Nyveon">Listening </a>
 </p>
 
 <p align="center">
@@ -97,14 +99,14 @@
 
 <!-- ---------------------------------------------------------------------------- -->
 
-<small align="right">
-
+<div align="right">
+<sub>
 Made with:
 <a href="https://github.com/anuraghazra/github-readme-stats">Github Readme Stats</a>,
 <a href="https://github.com/simple-icons/simple-icons">Simple Icons</a>,
 <a href="https://github.com/HatScripts/circle-flags">Circle Flags</a>
-
-</small> 
+</sub>
+</div> 
 
 <!-- ---------------------------------------------------------------------------- -->
 
