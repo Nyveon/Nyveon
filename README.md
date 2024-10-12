@@ -14,7 +14,7 @@
 
 <h2 align="center">Stats</h2>
 
-<p align="center">
+<div align="center">
 <picture height=200 align="center">
   <source
     height=200 align="center"
@@ -42,7 +42,7 @@
   />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyveon&layout=compact&hide_border=true&count_private=true&langs_count=10&theme=catppuccin_mocha" />
 </picture>
-</p>
+</div>
 
 <!-- ---------------------------------------------------------------------------- -->
 
