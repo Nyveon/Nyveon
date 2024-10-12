@@ -57,9 +57,36 @@
 
 <h2 align="center">Stats</h2>
 
-<img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=Nyveon&hide_rank=true&show_icons=true&hide_border=true&count_private=true&theme=transparent" />
+<p align="center">
+<picture height=200 align="center">
+  <source
+    height=200 align="center"
+    srcset="https://github-readme-stats.vercel.app/api?username=Nyveon&hide_rank=true&show_icons=true&hide_border=true&count_private=true&theme=catppuccin_mocha"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    height=200 align="center"
+    srcset="https://github-readme-stats.vercel.app/api?username=Nyveon&hide_rank=true&show_icons=true&hide_border=true&count_private=true&theme=catppuccin_latte"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nyveon&hide_rank=true&show_icons=true&hide_border=true&count_private=true&theme=catppuccin_mocha" />
+</picture>
 
-<img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyveon&layout=compact&hide_border=true&count_private=true&theme=transparent&langs_count=10"/>
+<picture height=200 align="center">
+  <source
+    height=200 align="center"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyveon&layout=compact&hide_border=true&count_private=true&langs_count=10&theme=catppuccin_mocha"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    height=200 align="center"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyveon&layout=compact&hide_border=true&count_private=true&langs_count=10&theme=catppuccin_latte"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyveon&layout=compact&hide_border=true&count_private=true&langs_count=10&theme=catppuccin_mocha" />
+</picture>
+</p>
+
 
 <br/>
 <br/>
