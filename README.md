@@ -30,10 +30,10 @@
 </p>
 
 <p align="center">
-<picture><img height=16 src="./icons/mail.svg" alt="email" /></picture>
-<picture><img height=16 src="./icons/email.svg" alt="" /></picture> &nbsp;&nbsp;
-<picture><img height=16 src="./icons/discord.svg" alt="discord" /></picture>
-<picture><img height=16 src="./icons/discord-user.svg" alt="nyveon" /></picture>  
+<picture><img height=14 src="./icons/mail.svg" alt="email" /></picture>
+<picture><img height=14 src="./icons/email.svg" alt="" /></picture> &nbsp;&nbsp;
+<picture><img height=14 src="./icons/discord.svg" alt="discord" /></picture>
+<picture><img height=14 src="./icons/discord-user.svg" alt="nyveon" /></picture>  
 </p>
 
 <!-- https://danmarshall.github.io/google-font-to-svg-path/ -->
