@@ -25,7 +25,9 @@ def tech_to_row(tech_list):
                     f"Image for {identifier} doesn't exist"
                 )
 
-        row.append(f'<picture><img alt="{tech}" height=32 src="{src}" /></picture>')
+        row.append(
+            f'<picture><img alt="{tech}" title="{tech}" height=32 src="{src}" /></picture>'
+        )
 
     return row
 
