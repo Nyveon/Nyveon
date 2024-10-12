@@ -38,7 +38,7 @@ def join(list):
 
 def generate_table():
     md_table = (
-        "| Category | Daily use | Past experience |\n"
+        "| Category | Proficient | Have worked with |\n"
         "| -------: | :-------: | :-------------: |\n"
     )
 

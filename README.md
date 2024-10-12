@@ -1,14 +1,41 @@
-<h2 align="center">About</h2>
+<h2 align="center"> About </h2>
 
-<img align="center" width=24 src="./icons/personal.png" /><a href="http://eric.tc">eric.tc</a> - My portfolio
+<p align="center">
+<b>
+<a href="http://eric.tc">✨ Portfolio and Blog ✨</a> 
+</b>
+</p>
 
-💻 Full Stack developer
+<p align="center">
+💻 Full Stack developer - CS & Engineering student
+<a href="https://dcc.uchile.cl/" target="_blank">@dccuchile</a> 👨‍🎓
+</p>
 
-👨‍🎓 CS & Engineering student and TA @ University of Chile (<a href="https://github.com/Nyveon/Nyveon/blob/main/University.md">my course/TA projects</a>)
+<p align="center">
+🕹️ Game Development, 🛠️ Open Source, 🌐 Web Development
+</p>
 
-🎮 Passions: Game development, Web development, Open Source tech
+<p align="center">
+<picture><img height=16 align="center" src="./icons/us.svg" alt="US flag"/></picture> English (<i>native</i>) |
+<picture><img width=16 align="center" src="./icons/cl.svg" alt="CL flag" /></picture> Spanish (<i>native</i>) |
+<picture><img height=16 align="center" src="./icons/de.svg" alt="DE flag" /></picture> German (<i>rusty</i>)
+</p>
 
-🗣 Native English & Spanish
+<p align="center">
+<a href="https://www.backloggd.com/u/Nyveon/" target="_blank">🎮 Playing</a> |
+<a href="https://www.goodreads.com/user/show/56531731-nyveon" target="_blank">📚 Reading</a> |
+<a href="https://www.last.fm/user/Nyveon">🎶 Listening </a>
+</p>
+
+<p align="center">
+<picture><img height=16 src="./icons/mail.svg" alt="email" /></picture>
+<picture><img height=16 src="./icons/email.svg" alt="" /></picture> &nbsp;&nbsp;
+<picture><img height=16 src="./icons/discord.svg" alt="discord" /></picture>
+<picture><img height=16 src="./icons/discord-user.svg" alt="nyveon" /></picture>  
+</p>
+
+<!-- https://danmarshall.github.io/google-font-to-svg-path/ -->
+
 
 <!-- ---------------------------------------------------------------------------- -->
 
@@ -51,7 +78,7 @@
 <div align="center">
 
 <!-- start:tech -->
-| Category | Daily use | Past experience |
+| Category | Proficient | Have worked with |
 | -------: | :-------: | :-------------: |
 | Languages | <picture><img alt="Python" title="Python" height=32 src="./icons/python.svg" /></picture> <picture><img alt="JavaScript" title="JavaScript" height=32 src="./icons/javascript.svg" /></picture> <picture><img alt="Java" title="Java" height=32 src="./icons/java.svg" /></picture> | <picture><img alt="Ruby" title="Ruby" height=32 src="./icons/ruby.svg" /></picture> <picture><img alt="PHP" title="PHP" height=32 src="./icons/php.svg" /></picture> <picture><img alt="Scala" title="Scala" height=32 src="./icons/scala.svg" /></picture> <picture><img alt="C" title="C" height=32 src="./icons/c.svg" /></picture> <picture><img alt="C++" title="C++" height=32 src="./icons/cplusplus.svg" /></picture> |
 | Databases | <picture><img alt="SQLite" title="SQLite" height=32 src="./icons/sqlite.svg" /></picture> <picture><img alt="PostgreSQL" title="PostgreSQL" height=32 src="./icons/postgresql.svg" /></picture> | <picture><img alt="MariaDB" title="MariaDB" height=32 src="./icons/mariadb.svg" /></picture> <picture><img alt="Snowflake" title="Snowflake" height=32 src="./icons/snowflake.svg" /></picture> <picture><img alt="Oracle" title="Oracle" height=32 src="./icons/oracle.svg" /></picture> <picture><img alt="Cockroach" title="Cockroach" height=32 src="./icons/cockroach.svg" /></picture> |
@@ -70,9 +97,14 @@
 
 <!-- ---------------------------------------------------------------------------- -->
 
-<h5 align="right">
-Made with: <a href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra's Github Readme Stats</a> and <a href="https://github.com/simple-icons/simple-icons">Simple Icons</a>
-</h5>
+<small align="right">
+
+Made with:
+<a href="https://github.com/anuraghazra/github-readme-stats">Github Readme Stats</a>,
+<a href="https://github.com/simple-icons/simple-icons">Simple Icons</a>,
+<a href="https://github.com/HatScripts/circle-flags">Circle Flags</a>
+
+</small> 
 
 <!-- ---------------------------------------------------------------------------- -->
 
