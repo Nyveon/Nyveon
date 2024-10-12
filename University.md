@@ -1,9 +1,11 @@
-# Student council projects:
+# Teaching assistant & student council projects:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nyveon&repo=rubricator3000&theme=dracula)](https://github.com/Nyveon/rubricator3000)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cadcc&repo=Timeline-Template&theme=dracula)](https://github.com/cadcc/Timeline-Template)
 
 
-# University courses/projects:
+# Course projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyveon&repo=CC5213-Proyecto-Final&theme=dracula)](https://github.com/Nyveon/CC5213-Proyecto-Final)
 
@@ -20,5 +22,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dav1com&repo=CC3101-trabajo-1&theme=dracula)](https://github.com/Dav1com/CC3101-trabajo-1)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dav1com&repo=CC3101-2-trabajo2-grupo13&theme=dracula)](https://github.com/Dav1com/CC3101-2-trabajo2-grupo13)
-
-[//]: <> (Reminder to me: conslidate CC3101 projects into one repository at end of semester.)

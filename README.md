@@ -1,57 +1,19 @@
-<p align="center">
-    <a href="https://twitter.com/nyveon">
-        <img align="center" src="https://img.shields.io/badge/Nyveon-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-    </a>
-    <a href="https://www.twitch.tv/nyveon">
-        <img align="center" src="https://img.shields.io/badge/Nyveon-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" />
-    </a>
-    <a href="https://www.reddit.com/user/nyveon">
-        <img align="center" src="https://img.shields.io/badge/Nyveon-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-    </a>
-    <a href="https://www.goodreads.com/user/show/56531731-nyveon">
-        <img align="center" src="https://img.shields.io/badge/Nyveon-%23372213.svg?style=for-the-badge&logo=goodreads&logoColor=white" />
-    </a>
-    <a href="https://steamcommunity.com/id/nyveon">
-        <img align="center" src="https://img.shields.io/badge/Nyveon-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
-    </a>
-    <a href="https://www.last.fm/user/Nyveon">
-        <img align="center" src="https://img.shields.io/badge/Nyveon-%23D51007.svg?style=for-the-badge&logo=lastdotfm&logoColor=white" />
-    </a>  
-    <img align="center" src="https://img.shields.io/badge/Nyveon%239999-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
-</p>
+<h2 align="center">About</h2>
 
-<h2 align="center"> Groups and Websites </h2>
+<img align="center" width=24 src="./icons/personal.png" /><a href="http://eric.tc">eric.tc</a> - My portfolio
 
-<a href="http://eric.tc">
-    <img align="center" width=32 src="./icons/personal.png" />&nbsp;eric.tc
-</a>
-- My personal website.
-<br/><br/>
+💻 Full Stack developer
 
+👨‍🎓 CS & Engineering student and TA @ University of Chile (<a href="https://github.com/Nyveon/Nyveon/blob/main/University.md">my course/TA projects</a>)
 
-<a href="https://nyveon.com/">
-    <img align="center" width=32 src="./icons/grok.png" />Gamedev Portfolio
-</a>
-- A catalogue of my projects and game jam submissions.
-<br/><br/>
+🎮 Passions: Game development, Web development, Open Source tech
 
-
-<a href="https://github.com/Nyveon/Nyveon/blob/main/University.md">
-    <img align="center" width=32 src="./icons/fcfm.svg" />University of Chile
-</a>
-- My Courses/Projects.
-<br/><br/>
-
-<a href="https://cadcc.cl/">
-    <img align="center" width=32 src="./icons/cadcc.svg" />CaDCC
-</a>
-    - UChile CS Student Council <i>(2021 and 2022)</i>.
-
+🗣 Native English & Spanish
 
 
 <!-- ---------------------------------------------------------------------------- -->
 
-<h2 align="center"> Technologies </h2>
+<h2 align="center">Tech</h2>
 
 <h3 align="center">
     <img alt="Python" height=32 src="./icons/python.svg">
@@ -93,17 +55,20 @@
 
 <!-- ---------------------------------------------------------------------------- -->
 
-<h2 align="center"> Stats </h2>
+<h2 align="center">Stats</h2>
 
-<p align="center">
-  <img align="center" style="width: 37%" src="https://github-readme-stats.vercel.app/api?username=Nyveon&hide_rank=true&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple" />
+<img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=Nyveon&hide_rank=true&show_icons=true&hide_border=true&count_private=true&theme=transparent" />
 
-  <img align="center" style="width: 43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyveon&layout=compact&hide_border=true&count_private=true&theme=midnight-purple&langs_count=10"/>
-</p>
+<img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyveon&layout=compact&hide_border=true&count_private=true&theme=transparent&langs_count=10"/>
 
 <br/>
 <br/>
+
+<!-- ---------------------------------------------------------------------------- -->
 
 <h5 align="right">
-Profile page made with: <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo's Markdown Badges</a>, <a href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra's Github Readme Stats</a> and Icons from: https://simpleicons.org
+Made with: <a href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra's Github Readme Stats</a> and <a href="https://github.com/simple-icons/simple-icons">Simple Icons</a>
 </h5>
+
+<!-- ---------------------------------------------------------------------------- -->
+
