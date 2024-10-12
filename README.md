@@ -10,49 +10,6 @@
 
 🗣 Native English & Spanish
 
-
-<!-- ---------------------------------------------------------------------------- -->
-
-<h2 align="center">Tech</h2>
-
-<h3 align="center">
-    <img alt="Python" height=32 src="./icons/python.svg">
-    <img alt="JavaScript" height=32 src="./icons/javascript.svg">
-    <img alt="Java" height=32 src="./icons/java.svg">
-    <img alt="Ruby" height=32 src="./icons/ruby.svg">
-    <img alt="C++" height=32 src="./icons/cplusplus.svg">
-    <img alt="C" height=32 src="./icons/c.svg">
-    <img alt="HTML5" height=32 src="./icons/html5.svg">
-    <img alt="CSS3" height=32 src="./icons/css3.svg">
-    <img alt="Vue.js" height=32 src="./icons/vuedotjs.svg">
-    <img alt="Bootstrap" height=32 src="./icons/bootstrap.svg">
-    <img alt="TailwindCSS" height=32 src="./icons/tailwindcss.svg">
-    <img alt="PostgreSQL" height=32 src="./icons/postgresql.svg">
-    <img alt="Django" height=32 src="./icons/django.svg">
-    <img alt="Ruby on Rails" height=32 src="./icons/rubyonrails.svg">
-    <img alt="PHP" height=32 src="./icons/php.svg">
-    <img alt="NumPy" height=32 src="./icons/numpy.svg">
-    <img alt="Pandas" height=32 src="./icons/pandas.svg">
-    <img alt="R" height=32 src="./icons/r.svg">
-    <img alt="Octave" height=32 src="./icons/octave.svg">
-    <img alt="GameMaker" height=32 src="./icons/gamemaker.png">
-    <img alt="Godot Engine" height=32 src="./icons/godotengine.svg">
-    <img alt="OpenGL" height=32 src="./icons/opengl.svg">
-    <img alt="Aseprite" height=32 src="./icons/aseprite.svg">
-    <img alt="Visual Studio Code" height=32 src="./icons/visualstudiocode.svg">
-    <img alt="PyCharm" height=32 src="./icons/pycharm.svg">
-    <img alt="IntelliJ Idea" height=32 src="./icons/intellijidea.svg">
-    <img alt="Photoshop" height=32 src="./icons/adobephotoshop.svg">
-    <img alt="Vegas Pro" height=32 src="./icons/vegaspro.png">
-    <img alt="FLStudio" height=32 src="./icons/flstudio.svg">
-    <img alt="Trello" height=32 src="./icons/trello.svg">
-    <img alt="Git" height=32 src="./icons/git.svg">
-    <img alt="GitKraken" height=32 src="./icons/gitkraken.svg">
-    <img alt="Markdown" height=32 src="./icons/markdown.svg">
-    <img alt="LaTeX" height=32 src="./icons/latex.svg">
-    <img alt="Obsidian" height=32 src="./icons/obsidian.svg">
-</h3>
-
 <!-- ---------------------------------------------------------------------------- -->
 
 <h2 align="center">Stats</h2>
@@ -87,6 +44,26 @@
 </picture>
 </p>
 
+<!-- ---------------------------------------------------------------------------- -->
+
+<h2 align="center">Tech</h2>
+
+<div align="center">
+
+<!-- start:tech -->
+| Category | Daily use | Past experience |
+| -------: | :-------: | :-------------: |
+| Languages | <img alt="Python" height=32 src="./icons/python.svg" /> <img alt="JavaScript" height=32 src="./icons/javascript.svg" /> <img alt="Java" height=32 src="./icons/java.svg" /> | <img alt="Ruby" height=32 src="./icons/ruby.svg" /> <img alt="PHP" height=32 src="./icons/php.svg" /> <img alt="Scala" height=32 src="./icons/scala.svg" /> <img alt="C" height=32 src="./icons/c.svg" /> <img alt="C++" height=32 src="./icons/cplusplus.svg" /> |
+| Databases | <img alt="SQLite" height=32 src="./icons/sqlite.svg" /> <img alt="PostgreSQL" height=32 src="./icons/postgresql.svg" /> | <img alt="MariaDB" height=32 src="./icons/mariadb.svg" /> <img alt="Snowflake" height=32 src="./icons/snowflake.svg" /> <img alt="Oracle" height=32 src="./icons/oracle.svg" /> <img alt="Cockroach" height=32 src="./icons/cockroach.svg" /> |
+| Style | <img alt="CSS3" height=32 src="./icons/css3.svg" /> <img alt="Sass" height=32 src="./icons/sass.svg" /> | <img alt="Tailwind CSS" height=32 src="./icons/tailwindcss.svg" /> <img alt="Bootstrap" height=32 src="./icons/bootstrap.svg" /> |
+| Frontend | <img alt="Alpine.js" height=32 src="./icons/alpinedotjs.svg" /> <img alt="Eleventy" height=32 src="./icons/eleventy.svg" /> | <img alt="Vue.js" height=32 src="./icons/vuedotjs.svg" /> <img alt="Svelte" height=32 src="./icons/svelte.svg" /> |
+| Backend | <img alt="Flask" height=32 src="./icons/flask.svg" /> <img alt="Spring Boot" height=32 src="./icons/springboot.svg" /> | <img alt="Django" height=32 src="./icons/django.svg" /> <img alt="Ruby on Rails" height=32 src="./icons/rubyonrails.svg" /> |
+| Source Control | <img alt="Git" height=32 src="./icons/git.svg" /> <img alt="GitKraken" height=32 src="./icons/gitkraken.svg" /> <img alt="GitHub" height=32 src="./icons/github.svg" /> | <img alt="GitLab" height=32 src="./icons/gitlab.svg" /> <img alt="Subversion" height=32 src="./icons/subversion.svg" /> |
+| Markup | <img alt="HTML5" height=32 src="./icons/html5.svg" /> <img alt="Markdown" height=32 src="./icons/markdown.svg" /> <img alt="Typst" height=32 src="./icons/typst.svg" /> | <img alt="LaTeX" height=32 src="./icons/latex.svg" /> |
+| Engines | <img alt="Godot" height=32 src="./icons/godot.svg" /> <img alt="Gamemaker" height=32 src="./icons/gamemaker.svg" /> | <img alt="Unity" height=32 src="./icons/unity.svg" /> |
+
+<!-- end:tech -->
+</div>
 
 <br/>
 <br/>
