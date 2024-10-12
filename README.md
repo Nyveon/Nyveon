@@ -1,12 +1,10 @@
 <h2 align="center"> About </h2>
 
-<p align="center">
-<b>
+<h3 align="center">
 ✨
 <a href="http://eric.tc">Portfolio and Blog</a> 
-</b>
 ✨
-</p>
+</h3>
 
 <p align="center">
 💻 Full Stack developer - CS & Engineering student
