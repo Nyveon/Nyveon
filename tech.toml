@@ -54,7 +54,7 @@ low = [
 name = "Frontend"
 
 high = [
-    "Alpine.js", "Eleventy"
+    "React", "Alpine.js", "Eleventy"
 ]
 
 low = [
